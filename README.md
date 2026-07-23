@@ -1,4 +1,4 @@
-# Terminal Pet for Fish
+# T-pet
 
 A tiny blue cat that lives above your Fish shell prompt and reacts to what
 happens in your terminal.
@@ -27,7 +27,7 @@ No runtime dependencies are required.
 ```fish
 mkdir -p ~/.config/fish/conf.d
 curl -fsSL \
-  https://raw.githubusercontent.com/arielportal2401-cyber/terminal-pet-fish/main/terminal-pet.fish \
+  https://raw.githubusercontent.com/arielportal2401-cyber/T-pet/main/terminal-pet.fish \
   -o ~/.config/fish/conf.d/terminal-pet.fish
 ```
 
